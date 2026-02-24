@@ -98,6 +98,8 @@ The integration of upscaling and label smoothing significantly reduces the model
 
 This model is intended for research and educational purposes. Accuracy can vary based on lighting, camera angle, and ethnic diversity within the training data.
 
-### 👤 AuthorMuhammad Abdulkareem
+### 👤 Author
+
+Muhammad Abdulkareem
 
 ### ⭐ AcknowledgementsSpecial thanks to the Google Gemini and TensorFlow communities for insights into transfer learning optimization for low-resolution image data.
