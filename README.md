@@ -102,4 +102,6 @@ This model is intended for research and educational purposes. Accuracy can vary 
 
 Muhammad Abdulkareem
 
-### ⭐ AcknowledgementsSpecial thanks to the Google Gemini and TensorFlow communities for insights into transfer learning optimization for low-resolution image data.
+### ⭐ Acknowledgements
+
+Special thanks to the Google Gemini and TensorFlow communities for insights into transfer learning optimization for low-resolution image data.
