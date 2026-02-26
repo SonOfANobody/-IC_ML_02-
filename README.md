@@ -80,6 +80,10 @@ Class-Specific Recall: Focusing on difficult minority classes like Disgust.
 │── README.md
 └── requirements.txt
 
+### Dataset
+
+https://www.kaggle.com/datasets/msambare/fer2013
+
 ### 🚀 How to Run
 
 Clone the repository.
